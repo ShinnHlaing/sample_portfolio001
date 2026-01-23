@@ -1,4 +1,3 @@
-// To add dark and light mode
 import React from 'react'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
